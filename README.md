@@ -1,10 +1,25 @@
-### Hi there 👋
+
+<!--👋-->
+## Hi there 👋, 
+
+I'm Jelmer, a webdevelopment student.
+
+
+
+#### I work with,    
+HTML  
+CSS  
+PHP  
+Laravel 
+
+<!-- **offie321/offie321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- <img style='border-radius: 25px !important' src="https://offie321.github.io/img/jelmer-profile.jpeg"/> -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offie321&show_icons=true&theme=react) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offie321&layout=compact&theme=react)
 
 <!--
-**offie321/offie321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
