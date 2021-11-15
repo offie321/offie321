@@ -13,6 +13,8 @@ I'm Jelmer, a Informatica student.
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offie321&show_icons=true&theme=react) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offie321&layout=compact&theme=react)
 
+
+![alt text](https://c.tenor.com/LRpdbPlRAV8AAAAd/flightreacts-flightreactsevillaugh.gif)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
