@@ -4,7 +4,7 @@
 
 I'm Jelmer, <br/>
 I Study Informatica <br/>
-I have worked with, **HTML, CSS, PHP, Laravel** 
+<!-- I have worked with, **HTML, CSS, PHP, Laravel**  -->
 
 <!-- **offie321/offie321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
